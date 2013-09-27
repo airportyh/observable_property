@@ -16,6 +16,10 @@
   "scripts": {
     "test": "node tests.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:airportyh/observable_property.git"
+  },
   "keywords": [
     "object",
     "observable"
