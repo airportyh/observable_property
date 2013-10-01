@@ -4,8 +4,8 @@
   "description": "Make an observable based on an object property",
   "main": "index.js",
   "dependencies": {
-    "emmitt": "0.0.0",
-    "setter": "0.0.0"
+    "emmitt": "~0.0.0",
+    "setter": "~0.0.0"
   },
   "devDependencies": {
     "tape": "~1.1.1",
