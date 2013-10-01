@@ -5,13 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "emmitt": "0.0.0",
-    "ispy": "~0.1.2",
-    "setter": "0.0.0",
-    "tape": "~1.1.1"
+    "setter": "0.0.0"
   },
   "devDependencies": {
     "tape": "~1.1.1",
-    "ispy": "~0.1.2"
+    "ispy": "~0.1.2",
+    "tape": "~1.1.1"
   },
   "scripts": {
     "test": "node tests.js"
