@@ -1,6 +1,6 @@
 {
   "name": "observable_property",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Make an observable based on an object property",
   "main": "index.js",
   "dependencies": {
